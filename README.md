@@ -80,7 +80,7 @@ It builds on the earlier analysis of color and brightness by adding predictive m
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 Install the required libraries:
 ```bash
 pip install scikit-learn streamlit joblib pandas numpy matplotlib seaborn openpyxl
